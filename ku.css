@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Calibri,sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 70px;
+    color: lightslategrey;
+}
+p{
+    font-size: 20px;
+    color: grey;
+    padding: 10px;
+}
+.button{
+    background-color: grey;
+    padding: 10px 25px;
+    color: white;
+    border: none;
+    margin: 10px;
+}
+.main-header{
+    background: linear-gradient(45deg,teal,lightseagreen);
+    padding: 20px;
+}
+.main-header h1{
+    color: whitesmoke;
+}
+nav{
+    background-color:lightgrey;
+}
+nav a {
+    text-decoration: none;
+    font-size: 15px;
+    padding: 10px 20px;
+    display: inline-block;
+    color: black;
+}
+nav a:hover{
+    background-color: lightseagreen;
+    color: whitesmoke;
+}
+.home-section{
+    padding: 100px;
+    font-size: 20px;
+}
+.best-section {
+    text-decoration: none;
+    font-size: 60px;
+    padding-bottom: 100px;
+}
+p{
+    font-size: 20px;
+    color: grey;
+    padding-bottom: 45px;
+
+}
+.beds-section figure {
+    box-shadow: 0 0 5px black;
+    width: 300px;
+    padding: 20px;
+    display: inline-block;
+    margin: 15px ;
+}
+.beds-section figure img{
+    width: 100%;
+}
+.beds-section figcaption{
+    font-size: 20px;
+}
+.beds-section figcaption{
+    font-size: 20px;
+}
+.beds-section figure P{
+    font-size: 20px;
+}
+.sofa figure {
+    box-shadow: 0 0 5px black;
+    width: 300px;
+    padding: 20px;
+    display: inline-block;
+    margin: 15px;
+}
+.sofa figcaption{
+    font-size: 25px;
+}
+.sofa figure p{
+    font-size: 20px;
+}
+.sofa{
+    padding-top: 45px;
+}
+.dining_section figure {
+    box-shadow: 0 0 5px black;
+    width: 300px;
+    padding: 20px;
+    display: inline-block;
+    margin: 15px ;
+}
+.dining_section figure img{
+    width: 100%;
+}
+.dining_section{
+    padding-top: 50px;
+}
+.dining_section{
+    padding-bottom: 300px;
+}
+.dining_section figcaption{
+    font-size: 20px;
+}
+.like figure img{
+    width: 25%;
+    box-shadow: 0 0 5px black;
+    margin: 10px;
+}
